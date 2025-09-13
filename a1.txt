@@ -1,3 +1,2 @@
 This is master branch content
-
 this is devops content for testing purpose
